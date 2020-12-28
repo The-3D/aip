@@ -1,5 +1,5 @@
 ---
-aip: <to be assigned>
+aip: 6
 title: Adding GUSD on AAVE
 status: WIP
 author: Gemini
